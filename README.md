@@ -102,5 +102,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-**Author:** [Your Name]  
-**Course:** Python Data Science and Machine Learning Bootcamp
